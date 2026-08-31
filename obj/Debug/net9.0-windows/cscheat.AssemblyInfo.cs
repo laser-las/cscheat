@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("cscheat")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69cb0736427727c5d73116ff4793d7c70da615e4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+874a45282a7382fc40d366658a5a76356a095dac")]
 [assembly: System.Reflection.AssemblyProductAttribute("cscheat")]
 [assembly: System.Reflection.AssemblyTitleAttribute("cscheat")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
